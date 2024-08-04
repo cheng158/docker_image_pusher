@@ -5,6 +5,7 @@ calico/node
 calico/cni
 nginx
 quay.io/kubevirt/virt-operator:v1.3.0
-
-
+quay.io/kubevirt/virt-api:v1.3.0
+quay.io/kubevirt/virt-controller:v1.3.0
+quay.io/kubevirt/cdi-operator:v1.59.0
 
