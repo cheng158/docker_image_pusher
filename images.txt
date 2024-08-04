@@ -4,12 +4,7 @@ calico/node:v3.26.0
 calico/node
 calico/cni
 nginx
-elasticsearch/elasticsearch
-kibana/kibana
-logstash/logstash
-beats/filebeat
-pause:3.6
-pause:3.9
-busybox
+quay.io/kubevirt/virt-operator:v1.3.0
+
 
 
