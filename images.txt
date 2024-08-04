@@ -1,1 +1,2 @@
-calico/kube-controllers:v3.26.0
+calico/kube-controllers
+
