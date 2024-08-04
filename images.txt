@@ -1,5 +1,8 @@
 calico/kube-controllers
-flannel
+calico/cni:v3.26.0
+calico/node:v3.26.0
+calico/node
+calico/cni
 ceph/ceph
 cephcsi/cephcsi
 csiaddons/k8s-sidecar
