@@ -1,2 +1,24 @@
 calico/kube-controllers
+coreos/flannel
+ceph/ceph
+cephcsi/cephcsi
+csiaddons/k8s-sidecar
+csiaddons/volumereplication-operator
+prometheus/prometheus
+prometheus/alertmanager
+prometheus/pushgateway
+prometheus/blackbox-exporter
+prometheus/node-exporter
+prometheus-operator/prometheus-config-reloader
+prometheus-operator/prometheus-operator
+brancz/kube-rbac-proxy
+nginx
+elasticsearch/elasticsearch
+kibana/kibana
+logstash/logstash
+beats/filebeat
+pause:3.6
+pause:3.9
+busybox
+
 
